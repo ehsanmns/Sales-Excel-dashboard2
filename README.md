@@ -3,7 +3,7 @@
 <h2 style="margin-left:0px;">Sales Year on Year Change</h2>
 <p style="margin-left:0px;">The first section of the dashboard shows a year-on-year change in sales for each category. A line chart is used to display the percentage change in sales over time. This allows users to quickly see which categories have experienced growth or decline over the selected time period.</p>
 <h2 style="margin-left:0px;">Average Rating Year on Year Change</h2>
-<p style="margin-left:0px;">The second section of the dashboard displays the year-on-year change in average rating for each category. This is also shown using a line chart. Users can use this section to determine whether customers are rating products more or less favorably over time.</p>
+<p style="margin-left:0px;">The second section of the dashboard displays the year-on-year change in average rating for each category. This is also shown using a line chart.  Users can use this section to determine whether customers are rating products more or less favorably over time.</p>
 <h2 style="margin-left:0px;">Average Rating</h2>
 <p style="margin-left:0px;">The third section of the dashboard displays the average rating for each category. A bar chart is used to show the ratings for each category side-by-side. This provides users with an overview of how each category is performing in terms of customer satisfaction.</p>
 <h2 style="margin-left:0px;">How to Use</h2>
